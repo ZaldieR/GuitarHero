@@ -1,0 +1,5 @@
+changement curseur pour les menus
+lecture musiques a la selection
+ecran 2joueurs / comparaison score a la fin
+barre de vie
+precision
